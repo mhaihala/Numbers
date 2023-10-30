@@ -6,7 +6,7 @@ Fibonacci Function (up to n = 47)
 
 Prime factorization
 
-Floor cost calculator (Give height + width of area or area in m^2 and cost per m^2 ==> outputs total cost)
+Floor cost calculator (Give height + width of area (m) or area in m^2 and cost per m^2 ==> outputs total cost)
 ------------------------------------------------------------------------------------------------------------
 
 Text.cpp contains small text based programs:
