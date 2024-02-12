@@ -46,7 +46,7 @@ void VowelCheck(string Input) {
     int c = 0;
     
     for (int i = 0; i < Input.size(); i++) {
-        if (Input[i] == 'a' or Input[i] == 'e' or Input[i] == 'i' or Input[i] == 'o' or Input[i] == 'u' or Input[i] == 'å' or Input[i] == 'ö' or Input[i] == 'ä') {
+        if (Input[i] == 'a' or Input[i] == 'e' or Input[i] == 'i' or Input[i] == 'o' or Input[i] == 'u' or Input[i] == 'Ã¥' or Input[i] == 'Ã¶' or Input[i] == 'Ã¤') {
             c++;
         }
     }
