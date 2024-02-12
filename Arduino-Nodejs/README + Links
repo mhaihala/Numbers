@@ -1,0 +1,6 @@
+Sensor "DHT11 Temperature & Humidity Sensor V2" connected to "Arduino Uno WiFi Rev2" communicating with HTML through Nodejs server
+Video of code: https://www.youtube.com/watch?v=z-D6T3KnEGo
+
+Shamelessly stolen from Adam Thomas:
+https://github.com/codeadamca/arduino-to-nodejs/tree/main
+https://www.youtube.com/watch?v=gQYsUjT-IBo
