@@ -1,0 +1,19 @@
+Numbers.cpp contains small number based programs:
+
+Program that outputs Pi decimals (up to 48)
+
+Fibonacci Function (up to n = 47)
+
+Prime factorization
+
+Floor cost calculator (Give height + width of area (m) or area in m^2 and cost per m^2 ==> outputs total cost)
+------------------------------------------------------------------------------------------------------------
+
+Text.cpp contains small text based programs:
+
+Check if user input is a palindrome
+
+Count words and characters in user input
+
+Count Vowels in user input
+------------------------------------------------------------------------------------------------------------
