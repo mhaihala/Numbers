@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+    <head>
+
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.0.4/socket.io.js'></script> <!-- Script for socket.io -->
+
+    </head>
+    <body>
+        <hl>Sensor Data</hl> <!-- Title -->
+
+        <div id='sample'></div>
+
+        <script>
+        
+        var socket = io();
+
+        socket.on('data', function(data){                               //Read from socket.io and output to HTML
+
+            console.log(data);
+
+            document.getElementById('sample').innerHTML = data;
+        });
+        
+        </script>
+    </body>
+</html>
